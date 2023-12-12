@@ -32,6 +32,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
 ## name: Rogith Ganesh
 ## Ref no:23013428
+```
 N=len(L); M=max(L) 
 X=list();f=list()
 for i in range (M+1):
